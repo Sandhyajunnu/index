@@ -1,0 +1,17 @@
+body{
+    background-color: #cdc7be;
+    margin: 30px;
+    padding: 10px;
+}
+h4{
+    color: #7b6079;
+}
+ul{
+    color: #3f3697;
+}
+#table1,.th1,.td1{
+    width: 800px;
+    border: 2px solid blue;
+    border-collapse: collapse;
+    text-align: center;
+}
